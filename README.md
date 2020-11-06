@@ -1,2 +1,2 @@
-# new-repo
+# Library management system
 
